@@ -11,3 +11,9 @@ Predicting future sales revenue is crucial for strategic planning and decision-m
 - Evaluation: Assess the model's performance using metrics like Mean Squared Error.
 - Prediction: Utilize the trained model to predict sales revenue for future months.
 
+## Dependencies
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Scikit-learn
